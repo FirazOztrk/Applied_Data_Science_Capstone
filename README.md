@@ -1,4 +1,4 @@
-# :🚀 SpaceX Launch Success Prediction
+# 🚀 SpaceX Launch Success Prediction
 Welcome to the SpaceX Launch Success Prediction project! This capstone project is part of the IBM Data Science Professional Certificate and showcases the culmination of skills acquired throughout the course, focusing on a real-world scenario involving one of the most innovative companies in space exploration.
 
 ## 🌌 Project Overview
@@ -26,5 +26,5 @@ Dashboards: Built dynamic dashboards with Plotly Dash to allow real-time explora
 Model Building: Tested and refined various classification models, including logistic regression, decision trees, and random forests.
 Model Evaluation: Used metrics such as accuracy, precision, and recall to determine the best-performing model.
 Hyperparameter Tuning: Optimized model performance through grid search and cross-validation techniques.
-🚀 Conclusion
+# 🚀 Conclusion
 This project not only demonstrates the power of data science in making predictions about complex systems like rocket launches but also highlights the importance of understanding the underlying data. Through careful analysis and modeling, we've been able to identify key factors that influence the success of SpaceX's first stage landings and provide a reliable model for future predictions.
